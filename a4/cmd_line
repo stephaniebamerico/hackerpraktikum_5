@@ -1,0 +1,1 @@
+openssl ec -pubin -in vk.pem -text -param_out -param_enc explicit
