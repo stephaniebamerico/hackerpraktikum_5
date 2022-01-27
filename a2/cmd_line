@@ -1,0 +1,1 @@
+hash_extender/hash_extender --file original_data.txt --signature 69268ba87558295eedb751d8f4744b58bd2705ce5d09984f31927bb7fbfe9b97 --append Stephanie --format=sha256 --out-data-format=raw --secret=20
